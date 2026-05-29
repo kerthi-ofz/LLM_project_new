@@ -1,8 +1,5 @@
 # LLM_project_new
 Project Overview
-
-Project Overview
-
 This project is a Retrieval-Augmented Generation (RAG) based chatbot that allows users to upload PDF documents and ask questions in natural language. The system processes the document and generates accurate answers based only on the uploaded content.
 Unlike cloud-based solutions, this system uses Ollama, enabling fully offline execution, improved data privacy, and reduced dependency on external APIs.
 
